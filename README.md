@@ -1,14 +1,6 @@
 # SFDX  App
 
-## Dev, Build and Test
+## ISSUE
+When a object has fields split across mulitple pacakages force:source:push does not work.   You will recieve the following error:
 
-
-## Resources
-
-
-## Description of Files and Directories
-
-
-## Issues
-
-
+An object 'Account.TestField2__c' of type CustomField was named in package.xml, but was not found in zipped directory
