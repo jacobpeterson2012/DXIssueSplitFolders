@@ -8,4 +8,4 @@ sfdx-project.json has two packageDirectories defined which should be supported.
 ## Steps to recreate
 1. Clone repo
 2. Create new scratch org
-3. Attempt to push sfdx:force:push
+3. Attempt to push sfdx force:source:push
